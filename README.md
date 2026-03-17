@@ -66,15 +66,12 @@ Conceitos gerais de gerenciamento de projetos; referências e boas práticas; de
 > Esta seção será atualizada conforme as aulas forem publicadas.
 - [Aula 01 — Introdução e visão geral](./aulas/aula01/aula01.md)
 - [Aula 02 — TAP / Termo de Abertura do Projeto](./aulas/aula02/aula02.md)
-- [Aula 03 — Escopo e EAP/WBS](./aulas/aula03/aula03.md)
 
 ---
 
 ## Atividades (links)
 > Esta seção será atualizada conforme as atividades forem publicadas.
 - [Atividade 01 — Leitura + criação do TAP](./atividades/atividade01-tap.md)
-- [Atividade 02 — EAP/WBS + escopo e critérios de aceite](./atividades/atividade02-eap.md)
-- [Projeto — Plano completo + acompanhamento + apresentação final](./atividades/projeto-final.md)
 
 ---
 
