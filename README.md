@@ -51,17 +51,6 @@ Conceitos gerais de gerenciamento de projetos; referências e boas práticas; de
 
 ---
 
-## Estrutura sugerida do repositório
-> Você pode manter esta estrutura e ajustar conforme a turma.
-
-- `aulas/` — materiais por aula (slides, roteiros, exemplos)
-- `atividades/` — enunciados e instruções de entrega
-- `templates/` — modelos de artefatos (TAP, EAP, riscos, status report etc.)
-- `projeto/` — pasta da equipe (opcional), com evidências e entregáveis
-- `referencias/` — leituras, artigos e links
-
----
-
 ## Aulas (links)
 > Esta seção será atualizada conforme as aulas forem publicadas.
 - [Aula 01 — Introdução e visão geral](./aulas/aula01/aula01.md)
@@ -97,10 +86,6 @@ Conceitos gerais de gerenciamento de projetos; referências e boas práticas; de
 ## Avaliação
 > Os critérios e pesos podem ser ajustados e serão confirmados no Google Classroom.
 
-Sugestão de organização (por entregas e evidências):
-- **A1 — Planejamento do projeto (TAP + EAP + cronograma):** 35%
-- **A2 — Acompanhamento e controle (status reports + riscos + mudanças):** 35%
-- **A3 — Entrega final + apresentação/defesa:** 30%
 
 | Conceito | Faixa de nota correspondente |
 |---|---|
