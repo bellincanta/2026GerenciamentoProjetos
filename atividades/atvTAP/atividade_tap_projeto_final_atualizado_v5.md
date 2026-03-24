@@ -73,9 +73,12 @@ Seu texto deve apresentar os elementos essenciais de um TAP, mas a forma de orga
 2. **Um arquivo PDF com a primeira versão do TAP do seu projeto**.
 
 A entrega deverá ser realizada da seguinte forma:
+
 - o arquivo PDF com as **respostas do questionário** deverá ser submetido no **Google Classroom** da disciplina de **Gerenciamento de Projetos** **até o dia 24/03**;
 - o arquivo PDF com a **primeira versão do TAP** deverá ser submetido no **Google Classroom** da disciplina de **Gerenciamento de Projetos** **até o dia 07 de abril**.
 
+> **Atenção:** trabalhos entregues com atraso terão **desconto de 1,0 ponto por dia de atraso**.
+>
 > **Observação importante:** tanto o **questionário** quanto o **TAP** serão submetidos à **verificação de plágio** e à **análise de indícios de uso de agentes de IA**. Caso seja identificado qualquer indício de plágio ou de uso de IA na realização das atividades, o estudante receberá **conceito D**.
 
 ---
