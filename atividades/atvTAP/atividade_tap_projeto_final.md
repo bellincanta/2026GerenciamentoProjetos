@@ -4,7 +4,7 @@
 ## 1. Materiais de apoio
 1. Artigo: **“TAP para Gestão Sustentável de Projetos”**.
 2. Documento-base do projeto anual: **[Projeto Final (TADS – Último Ano) — Mobile + API (2026)](https://github.com/bellincanta/2026DispositivosMoveis/blob/main/atividades/projetoFinal.md)**.
-3. Modelo de apoio do TAP em PDF: [TAP.pdf](./atividades/atvTAP/TAP.pdf).
+3. Modelo de apoio do TAP em PDF: [TAP.pdf](./TAP.pdf).
 
 ---
 
