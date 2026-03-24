@@ -60,7 +60,7 @@ Conceitos gerais de gerenciamento de projetos; referências e boas práticas; de
 
 ## Atividades (links)
 > Esta seção será atualizada conforme as atividades forem publicadas.
-- [Atividade 01 — Leitura + criação do TAP](./atividades/atividade01-tap.md)
+- [Atividade 01 — Leitura + criação do TAP](./atividades/atvTAP/atividade_tap_projeto_final.md)
 
 ---
 
