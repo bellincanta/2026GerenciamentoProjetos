@@ -135,7 +135,7 @@ Por isso, antes de assumir um projeto, o gerente deve refletir sobre suas condi�
 
 ---
 
-## Exemplo integrador para discussão em sala
+## Exemplo para discussão
 Uma escola contrata uma equipe para desenvolver um aplicativo que permita aos alunos consultar notas, faltas e avisos. O projeto foi entregue com 20 dias de atraso e custou um pouco mais do que o previsto. Porém, após a implantação, os alunos passaram a acessar mais facilmente suas informações, os responsáveis conseguiram acompanhar o desempenho escolar e a escola reduziu o volume de atendimentos presenciais sobre questões simples.
 
 ### Questões para análise
