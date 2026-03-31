@@ -55,6 +55,7 @@ Conceitos gerais de gerenciamento de projetos; referências e boas práticas; de
 > Esta seção será atualizada conforme as aulas forem publicadas.
 - [Aula 01 — Introdução e visão geral](./aulas/aula01/aula01.md)
 - [Aula 02 — TAP / Termo de Abertura do Projeto](./aulas/aula02/aula02.md)
+- [Aula 03 — Falhas comuns em projetos](./aulas/aula03/aula03.md)
 
 ---
 
