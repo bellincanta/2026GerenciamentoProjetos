@@ -1,10 +1,5 @@
 # Aula 01 — Introdução ao Gerenciamento de Projetos
 
-## Objetivo da aula
-
-Nesta aula, os alunos terão o primeiro contato com os conceitos fundamentais de **projeto** e **gerenciamento de projetos**, compreendendo suas características, importância nas organizações e seus principais elementos: **papéis**, **ciclo de vida** e **áreas de gerenciamento**.
-
----
 
 ## O que é um projeto?
 
