@@ -82,14 +82,4 @@ Com base nessa tabela, faça o que se pede:
 - Indicação do caminho crítico e da duração total do projeto.
 - Respostas às perguntas de interpretação (item 6 da Parte 2).
 
-## 7. Critérios de avaliação
-
-| Critério | O que se espera | Peso |
-|---|---|:--:|
-| Estrutura da EAP | Decomposição lógica em níveis, do projeto até os pacotes de trabalho; uso da regra dos 100%; nomeação clara dos itens. | 30% |
-| Pacotes de trabalho | Os pacotes são entregáveis (substantivos), não atividades soltas, e cobrem todo o escopo descrito no caso. | 15% |
-| Diagrama de redes | Sequenciamento correto das atividades conforme as predecessoras; representação adequada (método das setas/blocos). | 25% |
-| Cálculos da rede | Cálculo correto de início/término cedo e tarde, folgas e duração total do projeto. | 20% |
-| Caminho crítico | Identificação correta do caminho crítico e interpretação do seu significado para o gerenciamento. | 10% |
-
 ---
