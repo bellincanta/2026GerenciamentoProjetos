@@ -78,7 +78,7 @@ Com base nessa tabela, faça o que se pede:
 ## 6. O que entregar
 
 - Diagrama da EAP com a numeração hierárquica (Parte 1).
-- Diagrama de redes desenhado.
+- Diagrama de redes desenhado (Parte 2).
 <!-- - Indicação do caminho crítico e da duração total do projeto.
 - Respostas às perguntas de interpretação (item 6 da Parte 2). -->
 
