@@ -11,16 +11,16 @@ Ao concluir esta atividade, você deverá ser capaz de:
 - Decompor o escopo de um projeto em uma Estrutura Analítica do Projeto (EAP) organizada em níveis.
 - Diferenciar entregáveis (pacotes de trabalho) de atividades de execução.
 - Sequenciar atividades a partir de suas relações de dependência e construir um diagrama de redes.
-- Calcular datas de início e término, folgas e a duração total do projeto.
-- Identificar e interpretar o caminho crítico.
+<!-- - Calcular datas de início e término, folgas e a duração total do projeto.
+- Identificar e interpretar o caminho crítico. -->
 
 ## 2. Instruções gerais
 
 1. Leia o caso com atenção antes de começar.
 2. A atividade deve ser feita individualmente.
-3. Você pode usar papel, quadro, software de sua preferência (ex.: planilha, ferramentas de diagrama) ou desenhar à mão.
+<!--3. Você pode usar papel, quadro, software de sua preferência (ex.: planilha, ferramentas de diagrama) ou desenhar à mão.
 4. Entregue os dois produtos solicitados: a EAP (Parte 1) e o diagrama de redes com os cálculos (Parte 2).
-5. Justifique suas escolhas sempre que solicitado. Não existe uma única EAP "correta" — existe coerência com o escopo.
+5. Justifique suas escolhas sempre que solicitado. Não existe uma única EAP "correta" — existe coerência com o escopo. -->
 
 ## 3. O caso
 
@@ -39,7 +39,7 @@ A campanha de marketing e divulgação depende do cardápio definido e do mobili
 Com base no caso, construa a EAP do projeto "Abertura da Cafeteria Grão & Aroma". Siga as orientações:
 
 1. Coloque o projeto no nível mais alto (nível 0 / 1).
-2. Agrupe o trabalho em fases ou entregáveis principais (nível 2). Sugestão: pense em blocos como legalização, reforma, equipamentos, equipe e divulgação.
+2. Agrupe o trabalho em fases ou entregáveis principais (nível 2). 
 3. Decomponha cada item em pacotes de trabalho (nível 3) — os entregáveis menores e gerenciáveis.
 4. Use a regra dos 100%: a soma dos níveis inferiores deve representar todo o trabalho do nível acima, nem mais, nem menos.
 5. Numere os itens de forma hierárquica (1, 1.1, 1.1.1, …).
@@ -66,20 +66,20 @@ A tabela abaixo lista as atividades de execução do projeto, com suas duraçõe
 
 Com base nessa tabela, faça o que se pede:
 
-1. Desenhe o diagrama de redes (recomenda-se o método de blocos / atividade no nó — AON), ligando as atividades conforme as predecessoras.
-2. Faça o cálculo para frente (*forward pass*) e determine o **Início Cedo** e o **Término Cedo** de cada atividade.
+1. Desenhe o diagrama de redes, ligando as atividades conforme as predecessoras.
+<!-- 2. Faça o cálculo para frente (*forward pass*) e determine o **Início Cedo** e o **Término Cedo** de cada atividade.
 3. Faça o cálculo para trás (*backward pass*) e determine o **Início Tarde** e o **Término Tarde** de cada atividade.
 4. Calcule a **folga total** de cada atividade (Folga = Início Tarde − Início Cedo).
 5. Identifique o **caminho crítico** e informe a **duração total** do projeto.
 6. Responda: o que aconteceria com o prazo final se a atividade **D** (reforma) atrasasse 3 dias? E se a atividade **G** (contratação da equipe) atrasasse 3 dias? Justifique usando o conceito de folga.
 
-> **Convenção de cálculo sugerida:** considere que o projeto começa no instante 0. Assim, o Início Cedo da primeira atividade é 0 e o Término Cedo é igual à duração. Mantenha a mesma convenção em toda a rede.
+> **Convenção de cálculo sugerida:** considere que o projeto começa no instante 0. Assim, o Início Cedo da primeira atividade é 0 e o Término Cedo é igual à duração. Mantenha a mesma convenção em toda a rede. -->
 
 ## 6. O que entregar
 
 - Diagrama da EAP com a numeração hierárquica (Parte 1).
-- Diagrama de redes desenhado, com Início/Término Cedo e Tarde e folgas indicados em cada atividade (Parte 2).
-- Indicação do caminho crítico e da duração total do projeto.
-- Respostas às perguntas de interpretação (item 6 da Parte 2).
+- Diagrama de redes desenhado.
+<!-- - Indicação do caminho crítico e da duração total do projeto.
+- Respostas às perguntas de interpretação (item 6 da Parte 2). -->
 
 ---
