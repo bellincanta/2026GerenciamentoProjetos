@@ -66,6 +66,7 @@ Conceitos gerais de gerenciamento de projetos; referências e boas práticas; de
 - [Atividade 01 — 1º Bim - Leitura + criação do TAP](./atividades/atvTAP/atividade_tap_projeto_final.md)
 - [Atividade 01 — 2º Bim - Criação EAP](./atividades/atvEAP/atividade_eap_projeto_final.md)
 - [Atividade 02 — 2º Bim - Estudo de Caso](./atividades/estudoDeCaso/Estudo_de_Caso_EAP_e_Diagrama_de_Redes.md)
+- [Atividade 03 — 2º Bim - Estudo de Caso](./atividades/atvConsolidar/consolidar_tap_eap_diagrama_rede.md)
 
 ---
 
