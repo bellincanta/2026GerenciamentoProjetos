@@ -20,7 +20,7 @@ Nesta atividade, você deverá **olhar para trás** e analisar, com o olhar de u
 4. Aula 03 — Falhas Comuns em Projetos (critérios de sucesso — tripla restrição e visão ampliada — e causas de fracasso);
 5. Aula 04 — Estrutura Analítica do Projeto (EAP);
 6. Aula 05 — Lista, Sequenciamento e Estimativas de Atividades (diagrama de rede, dependências, estimativas);
-7. Registro/feedback recebido na sua pré-banca (anotações, ata, apontamentos da banca ou do orientador).
+
 
 ---
 
@@ -44,7 +44,6 @@ Ao final, você deverá demonstrar que é capaz de:
 
 O artigo deve ser escrito no mesmo template utilizado no artigo do TCC, em texto corrido e com títulos e subtítulos, contendo obrigatoriamente as seções descritas abaixo.  
 
-(usar o mesmo template do artigo do TCC).
 
 ### 4.1 Introdução
 Contextualize brevemente o seu projeto (nome, objetivo geral, uma frase sobre o escopo) e o momento da pré-banca dentro do cronograma do projeto.
