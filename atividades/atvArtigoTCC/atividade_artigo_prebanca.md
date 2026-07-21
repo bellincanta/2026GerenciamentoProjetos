@@ -98,7 +98,7 @@ Com base em tudo o que foi discutido, indique **de forma objetiva** o que você 
 
 ## 6. Entrega da atividade
 
-A entrega deverá ser realizada no **Google Classroom** da disciplina de **Gerenciamento de Projetos**, em **arquivo PDF**, até a data definida pelo professor.
+A entrega deverá ser realizada no **Google Classroom** da disciplina de **Gerenciamento de Projetos**, em **arquivo PDF**, até o dia 28/07.
 
 > **Atenção:** trabalhos entregues com atraso terão **desconto de 1,0 ponto por dia de atraso**.
 >
