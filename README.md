@@ -68,6 +68,9 @@ Conceitos gerais de gerenciamento de projetos; referências e boas práticas; de
 - [Atividade 02 — 2º Bim - Estudo de Caso](./atividades/estudoDeCaso/Estudo_de_Caso_EAP_e_Diagrama_de_Redes.md)
 - [Atividade 03 — 2º Bim - Consolidar TAP + EAP + Diagrama de Redes](./atividades/atvConsolidar/consolidar_tap_eap_diagrama_rede.md)
 - [Atividade 01 — 3º Bim - Artigo TCC](./atividades/atvArtigoTCC/atividade_artigo_prebanca.md)
+- [Atividade 02 — 3º Bim - Artigo TCC](./atividades/atvTradeOff/atividade-trade-off-custo-tempo-TCC.md)
+
+
 
 ---
 
