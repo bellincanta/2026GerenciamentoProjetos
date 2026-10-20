@@ -58,6 +58,7 @@ Conceitos gerais de gerenciamento de projetos; referências e boas práticas; de
 - [Aula 03 — Falhas comuns em projetos](./aulas/aula03/aula03.md)
 - [Aula 04 — Estrutura Analítica do Projeto (EAP)](./aulas/aula04/aula04.md)
 - [Aula 05 — Estruturando o Projeto: Lista, Sequenciamento e Estimativas de Atividades](./aulas/aula05/aula05.md)
+- [Aula 06 — Orçamento e Custeio de Projetos](./aulas/aula06/aula06.md)
 
 ---
 
