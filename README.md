@@ -71,8 +71,7 @@ Conceitos gerais de gerenciamento de projetos; referências e boas práticas; de
 - [Atividade 01 — 3º Bim - Artigo TCC](./atividades/atvArtigoTCC/atividade_artigo_prebanca.md)
 - [Atividade 02 — 3º Bim - Trade Off - TCC](./atividades/atvTradeOff/atividade-trade-off-custo-tempo-TCC.md)
 - [Atividade 03 — 3º Bim - Riscos, Qualidade & Comunicação - TCC](./atividades/atvRiscosQualidade/atividade-riscos-qualidade-comunicacao-TCC.md)
-
-
+- [Atividade 01 — 4º Bim - Orçamento e Custeio - TCC](./atividades/atvOrçamentoECusteio/atividadeOrçamentoECusteio.md)
 
 ---
 
